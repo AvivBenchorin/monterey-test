@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/tianleh/tianleh-test-cases#readme",
   "dependencies": {
-    "@tianleh/tianleh-test-utility": "^1.0.6"
+    "@tianleh/tianleh-test-utility": "^1.0.6",
+    "tar": "^6.1.11"
   },
   "devDependencies": {
     "cypress": "^8.3.1"
